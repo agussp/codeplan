@@ -2,3 +2,5 @@ RESOLUSI 2021
 
 - Algo Trading MQL & Python
 - Web Scraping Embedded JS
+- Coba Edit lagi
+- dan lagi
