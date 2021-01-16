@@ -4,3 +4,6 @@ RESOLUSI 2021
 - Web Scraping Embedded JS
 - Coba Edit lagi
 - dan lagi
+
+Go Lang
+Data Structure
